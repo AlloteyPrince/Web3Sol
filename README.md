@@ -1,0 +1,1 @@
+This is one of the learning tutorials of Patrick C about Web3 and SmartContracts.
